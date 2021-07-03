@@ -1,0 +1,24 @@
+{
+  "name": "Nightwatch",
+  "version": "1.0.0",
+  "description": "nightwatch testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pelopollencio/nightwatch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pelopollencio/nightwatch/issues"
+  },
+  "homepage": "https://github.com/pelopollencio/nightwatch#readme",
+  "devDependencies": {
+    "geckodriver": "^2.0.1",
+    "nightwatch": "^1.7.7"
+  }
+}
